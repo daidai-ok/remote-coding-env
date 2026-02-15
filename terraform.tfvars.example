@@ -1,0 +1,12 @@
+# Required
+project_id         = "your-gcp-project-id"
+tailscale_auth_key = "tskey-auth-xxxxx"  # Generate at https://login.tailscale.com/admin/settings/keys
+
+# Optional (defaults shown)
+# region         = "asia-northeast1"
+# zone           = "asia-northeast1-a"
+# vm_name        = "dev-vm"
+# machine_type   = "e2-medium"
+# boot_disk_size = 50
+# network_name   = "dev-network"
+# subnet_cidr    = "10.10.0.0/24"
